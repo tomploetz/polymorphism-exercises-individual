@@ -1,0 +1,14 @@
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.dll
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.pdb
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\PostageCalculator.exe
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\TollBoothCalculator.exe
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\PostageCalculator.pdb
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\PostageCalculator.exe.config
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\TollBoothCalculator.pdb
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\bin\Debug\TollBoothCalculator.exe.config
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csprojAssemblyReference.cache
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csproj.CopyComplete
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.dll
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.pdb

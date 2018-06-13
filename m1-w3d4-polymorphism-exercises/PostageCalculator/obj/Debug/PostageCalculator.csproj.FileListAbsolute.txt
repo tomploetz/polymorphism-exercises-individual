@@ -1,0 +1,7 @@
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\bin\Debug\PostageCalculator.exe.config
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\bin\Debug\PostageCalculator.exe
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\bin\Debug\PostageCalculator.pdb
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\obj\Debug\PostageCalculator.csprojAssemblyReference.cache
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\obj\Debug\PostageCalculator.csproj.CoreCompileInputs.cache
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\obj\Debug\PostageCalculator.exe
+C:\Workspace\exercises\m1-w3d4-polymorphism-exercises\PostageCalculator\obj\Debug\PostageCalculator.pdb
